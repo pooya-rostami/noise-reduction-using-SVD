@@ -1,0 +1,1 @@
+We use SVD to reduce the noise of pictures by deleting part of single values each time then reconstruct the image.
